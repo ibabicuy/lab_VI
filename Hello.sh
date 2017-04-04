@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Hello Master!'
+echo 'Hello feaat2'
